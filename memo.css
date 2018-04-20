@@ -1,0 +1,40 @@
+/* stylesheet */
+#memoArea {
+  background-color: #EEEEEE;
+  border: solid #999999 1px;
+  width: 620px;
+  height:480px;
+  padding: 10px;
+}
+
+.memo {
+  text-decoration: none;
+  color: #000000;
+  position: absolute;
+  left:50px;
+  top:80px;
+  border: solid #999999 1px;
+  width: 180px;
+  height: 40px;
+  padding: 10px;
+}
+
+.yellow { background-color: #FFFFCC; }
+.red { background-color: #FFCCCC; }
+.green { background-color: #CCFFCC; }
+
+form {
+  background-color: #CCCCCC;
+  border: solid #999999 1px;
+  width: 620px;
+  padding: 10px;
+}
+
+#trashArea {
+  background-color: #6699cc;
+  color: #ffffff;
+  border: dashed #333366 1px;
+  width: 620px;
+  height:100px;
+  padding: 10px;
+}
